@@ -1,0 +1,403 @@
+{
+  "our_services": "Our Services",
+  "car_description": "Choose from our diverse lineup of Cars, Bikes, and Autos.",
+  "bus_description": "Skip the wait—book your perfect ride instantly.",
+  "plane_description": "Never miss your flight — we'll drop you on time, every time.",
+  "driver_description": "Ride safely with verified, professional, and friendly drivers.",
+  "hero": {
+    "bookRide": "Book a Ride in Seconds",
+    "oneStopSolution": "Your one-stop solution for quick, safe, and affordable transportation.",
+    "enterLocation": "Enter Location",
+    "enterDestination": "Enter Destination",
+    "goRide": "Go Ride",
+    "auto": "Auto",
+    "car": "Car",
+    "bike": "Bike"
+  },
+  "whyChooseZipRide": {
+    "title": "Why Choose ZipRide?",
+    "description": "We are redefining the way you travel with safe, affordable, and reliable rides",
+    "promoAlt": "ZipRide Promo",
+    "affordablePricing": {
+      "title": "Affordable Pricing",
+      "description": "Transparent fares with no hidden charges"
+    },
+    "quickReliable": {
+      "title": "Quick & Reliable",
+      "description": "Get a ride in less than 5 minutes"
+    },
+    "safeRides": {
+      "title": "Safe Rides",
+      "description": "Verified drivers, real-time tracking, 24/7 support"
+    },
+    "wideCoverage": {
+      "title": "Wide Coverage",
+      "description": "Available across multiple cities"
+    }
+  },
+  "serviceExperience": {
+    "title": "Service and Experience",
+    "seamlessPickup": {
+      "alt": "Seamless Pickup",
+      "title": "Seamless Pickup",
+      "description": "Your ride meets you right at the curb, ready to start your journey."
+    },
+    "friendlyCommunication": {
+      "alt": "Friendly Communication",
+      "title": "Friendly Communication",
+      "description": "Enjoy pleasant conversations and a comfortable ride with our friendly drivers."
+    },
+    "airportDropOff": {
+      "alt": "Effortless Airport Drop-off",
+      "title": "Effortless Airport Drop-off",
+      "description": "Arrive on time, right at the terminal. We’ll get you to your gate hassle-free."
+    }
+  },
+  "testimonials": {
+    "header": "What Our Riders Say",
+    "subheader": "Real stories from riders who love their ZipRide experience",
+    "anjali": "ZipRide makes my daily commute super easy! The drivers are friendly and always on time.",
+    "rohit": "Smooth rides, clean vehicles, and great pricing. Totally worth it!",
+    "sneha": "Love the app experience! Booking a ride has never been this simple.",
+    "vikram": "Very professional drivers and seamless payments. Highly recommended!",
+    "divya": "Comfortable, quick, and reliable — ZipRide is my go-to travel partner!"
+  },
+  "downloadApp": {
+    "title": "Download App from",
+    "description": "Download our mobile applications",
+    "appMockup1Alt": "App Mockup 1",
+    "appMockup2Alt": "App Mockup 2",
+    "googlePlayAlt": "Get it on Google Play",
+    "appleStoreAlt": "Download on the App Store"
+  },
+  "footer": {
+    "companyDescription": "Your trusted ride-sharing companion for quick, safe, and affordable trips.",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "careers": "Careers",
+    "newsroom": "Newsroom",
+    "investors": "Investors",
+    "services": "Services",
+    "bookRide": "Book a Ride",
+    "driveWithZipRide": "Drive with ZipRide",
+    "businessRides": "Business Rides",
+    "zipPassMembership": "ZipPass Membership",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "safetyGuidelines": "Safety Guidelines",
+    "reportAnIssue": "Report an Issue",
+    "contactSupport": "Contact Support",
+    "travelFeatures": "Travel / Features",
+    "rideTracker": "Ride Tracker",
+    "multipleVehicleTypes": "Multiple Vehicle Types",
+    "rewardsOffers": "Rewards & Offers",
+    "realTimeGPS": "Real-time GPS",
+    "googlePlayAlt": "Get it on Google Play",
+    "appStoreAlt": "Download on the App Store",
+    "allRightsReserved": "All rights reserved."
+  },
+  "navbar": {
+    "bookRide": "Book Ride",
+    "driver": "Driver",
+    "about": "About",
+    "help": "Help",
+    "profile": "Profile",
+    "viewProfile": "View Profile",
+    "logout": "Logout",
+    "login": "Login"
+  },
+  "story": {
+    "topBannerAlt": "Move Smarter Banner",
+    "topBanner": {
+      "title1": "Move Smarter",
+      "title2": "with",
+      "subtitle": "Your city rides simplified — affordable, comfortable, and just a click away."
+    },
+    "ourStoryTitle": "Our Story",
+    "ourStory": {
+      "paragraph1": "ZipRide was created with a simple goal — to make urban travel faster, smarter, and more reliable. We believe in connecting people and places through technology that’s easy to use and accessible for everyone.",
+      "paragraph2": "Our platform empowers riders with real-time tracking, multiple ride options, and secure payments, while helping local drivers grow through fair opportunities and transparent systems.",
+      "paragraph3": "At ZipRide, every journey matters — built on trust, comfort, and community."
+    },
+    "features": {
+      "findRideAlt": "Car Icon",
+      "findRide": {
+        "title": "Find a Ride",
+        "desc": "Focuses on the map interface and finding available vehicles."
+      },
+      "connectDriverAlt": "Customer Service Icon",
+      "connectDriver": {
+        "title": "Connect with a Driver",
+        "desc": "Highlights direct communication between passengers and drivers."
+      },
+      "enjoyJourneyAlt": "Way Icon",
+      "enjoyJourney": {
+        "title": "Enjoy Your Journey",
+        "desc": "Emphasizes comfort, affordability, and local drivers."
+      }
+    },
+    "cards": {
+      "navigateCity": {
+        "title": "Navigate Your City",
+        "desc": "The Future of Ride-Sharing. Available Online"
+      },
+      "lowFare": {
+        "title": "Low Fare, High Efficiency",
+        "desc": "The Future of Affordable Urban Transportation"
+      },
+      "spotSpeed": {
+        "title": "Spot the Speed",
+        "desc": "ZipRide's Affordable Promise Brightens the Urban Commute"
+      }
+    }
+  },
+  "call": {
+    "back": "Go back",
+    "name": "Arun Das",
+    "role": "Driver",
+    "calling": "● Calling...",
+    "mute": "Mute",
+    "muted": "Muted",
+    "speaker": "Speaker",
+    "speakerOn": "On",
+    "endCall": "End Call"
+  },
+  "cancelRide": {
+    "back": "Back",
+    "title": "Cancel Ride",
+    "subtitle": "Please let us know why you're canceling",
+    "reasonTitle": "Reason for cancellation",
+    "reason1": "I don't need a ride anymore",
+    "reason2": "Driver is too far",
+    "reason3": "I feel unsafe with the driver",
+    "reason4": "Others",
+    "policyTitle": "Cancellation Policy",
+    "policyDescription": "A cancellation fee of ₹50 may apply if you cancel more than 2 minutes after your driver has accepted the ride. By canceling, you agree to these terms.",
+    "keepRide": "Keep Ride",
+    "confirmCancellation": "Confirm Cancellation"
+  },
+  "chat": {
+    "back": "Back",
+    "you": "You",
+    "noMessages": "No messages yet",
+    "typeMessage": "Type a message...",
+    "send": "Send"
+  },
+   "help": {
+    "back": "Back",
+    "title": "How can we help you?",
+    "searchPlaceholder": "Search for help...",
+    "faqTitle": "Frequently Asked Questions",
+    "noFaqs": "No matching FAQs found.",
+    "commonIssuesTitle": "Common Issues",
+    "noIssues": "No matching issues found.",
+    "raiseComplaintTitle": "Raise a Complaint / Report a Problem",
+    "raiseComplaintDesc": "Let us know about any issues you are facing",
+    "raiseComplaintButton": "Submit a Complaint",
+    "contactSupportTitle": "Contact Customer Support",
+    "contactSupportDesc": "Can't find what you are looking for? We're here to help",
+    "contactSupportButton": "Contact Support",
+    "faq1": "How do I reset my password?",
+    "faq2": "How can I track my order?",
+    "faq3": "What are the shipping options?",
+    "faq4": "What is your return policy?",
+    "faq5": "How do I update my profile?",
+    "faq6": "How can I cancel my booking?",
+    "issue1": "Payment failed",
+    "issue2": "Order not received",
+    "issue3": "Login problems",
+    "issue4": "Product malfunction",
+    "issue5": "App not loading",
+    "issue6": "Ride cancelled automatically"
+  },
+   "notifications": {
+    "title": "Notifications",
+    "back": "Go back",
+    "driverAccepted": "Driver accepted your ride",
+    "driverArrived": "Your driver has arrived"
+  },
+   "verifyOtp": {
+    "back": "Back",
+    "enterVerificationCode": "Enter Verification Code",
+    "sentCodeInfo": "We've sent a 6-digit code to your email. Please enter it below to continue.",
+    "enterFullCode": "Please enter the full 6-digit code",
+    "verificationSuccess": "Verification successful! Code: {{code}}",
+    "continue": "Continue",
+    "codeExpires": "Code expires in",
+    "didntReceive": "Didn't receive the code?",
+    "resendCode": "Resend Code",
+    "newOtpSent": "New OTP sent!"
+  },
+   "signUp": {
+    "back": "Back",
+    "welcome": "Welcome to ZipRide",
+    "enterMobile": "Enter your mobile number to get started",
+    "mobilePlaceholder": "Enter your mobile number",
+    "invalidMobile": "Please enter a valid mobile number",
+    "mobileNumber": "Mobile Number: {{mobile}}",
+    "continue": "Continue",
+    "orContinueWith": "Or Continue With",
+    "continueWithGoogle": "Continue With Google"
+  },
+  "pastRides": {
+    "back": "Back",
+    "title": "Past Rides"
+  },
+  "accountPage": {
+    "title": "Account",
+    "profileAlt": "Profile Picture",
+    "rating": "Rating",
+    "pastRides": "Past Rides",
+    "logout": "Logout",
+    "favoritePlaces": "Favorite Places",
+    "paymentMethods": "Payment Methods",
+    "home": "Home",
+    "work": "Work",
+    "other": "Other",
+    "card": "Card",
+    "upi": "UPI",
+    "wallet": "Wallet",
+    "cash": "Cash",
+    "profilePreviewAlt": "Profile Preview",
+    "nameLabel": "Name",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "changeButton": "Change"
+  },
+  "ratingsReview": {
+    "back": "Back",
+    "title": "Ratings & Review",
+    "subtitle": "Find answers and get support",
+    "quickHelpTitle": "Quick Help",
+    "reviews": "reviews",
+    "reportIssueTitle": "Report an issue",
+    "viewAll": "View All",
+    "profile": "Profile",
+    "detailedName": "detailed name",
+    "reviewText1": "Hello, I am satisfied with the drive. Thank you, you are a good driver. May God bless you.",
+    "reviewText2": "Hello, I am satisfied with the drive. Thank you, you are a good driver. May God bless you.",
+    "reviewText3": "Hello, I am satisfied with the drive. Thank you, you are a good driver. May God bless you.",
+    "reviewText4": "Hello, I am satisfied with the drive. Thank you, you are a good driver. May God bless you."
+  },
+  "rideBooking": {
+    "back": "Go back",
+    "title": "Book Your Ride",
+    "subtitle": "Choose your pickup and destination to get started",
+    "pickupPlaceholder": "Pickup Location",
+    "dropPlaceholder": "Drop Location",
+    "pickupTimePlaceholder": "Pickup Time",
+    "selectVehicle": "Select Vehicle",
+    "infoText": "After selecting your pickup and destination, you’ll see available vehicles, fare estimates, and driver details.",
+    "mapPlaceholder": "Map will appear here"
+  },
+   "driverArriving": {
+    "back": "Back",
+    "driverArrivingMessage": "Your Driver, {{name}}, is arriving",
+    "chat": "Chat",
+    "call": "Call",
+    "ratingReview": "Rating & Review",
+    "rideCancel": "Ride Cancel",
+    "rideStatus": "Ride Status",
+    "driverAccepted": "Driver Accepted",
+    "driverArrived": "Driver Arrived",
+    "tripStarted": "Trip Started",
+    "tripEnded": "Trip Ended"
+  },
+   "chooseVehicle": {
+    "title": "Choose a Vehicle",
+    "subtitle": "Rides we think you'll like",
+    "car": "Car",
+    "carDesc": "AC and comfortable Car for long rides",
+    "carAlt": "Car image",
+    "auto": "Auto",
+    "autoDesc": "Auto rickshaw at your doorstep",
+    "autoAlt": "Auto rickshaw image",
+    "bike": "Bike",
+    "bikeDesc": "Bike Rides for quick commutes",
+    "bikeAlt": "Bike image",
+    "fareBreakdown": "Fare Breakdown",
+    "baseFare": "Base Fare",
+    "distance": "Distance",
+    "total": "Total",
+    "confirmBook": "Confirm & Book Ride"
+  },
+  "selection": {
+    "title": "Choose a Vehicle",
+    "subtitle": "Rides we think you'll like",
+    "car": "Car",
+    "carDesc": "AC and comfortable Car for long rides",
+    "carAlt": "Car image",
+    "auto": "Auto",
+    "autoDesc": "Auto rickshaw at your doorstep",
+    "autoAlt": "Auto rickshaw image",
+    "bike": "Bike",
+    "bikeDesc": "Bike Rides for quick commutes",
+    "bikeAlt": "Bike image",
+    "mapPlaceholder": "Map will appear here",
+    "fareBreakdown": "Fare Breakdown",
+    "baseFare": "Base Fare",
+    "distance": "Distance",
+    "total": "Total",
+    "confirmBook": "Confirm & Book Ride"
+  },
+  "driverArriving": {
+    "back": "Back",
+    "whereTo": "Where to?",
+    "driverArrivingMessage": "Your Driver, {{name}}, is arriving",
+    "chat": "Chat",
+    "call": "Call",
+    "ratingReview": "Rating & Review",
+    "rideCancel": "Ride Cancel",
+    "rideStatus": "Ride Status",
+    "driverAccepted": "Driver Accepted",
+    "driverArrived": "Driver Arrived",
+    "tripStarted": "Trip Started",
+    "tripEnded": "Trip Ended",
+
+    "modal": {
+      "close": "Close"
+    },
+
+    "feedback": {
+      "title": "Rate your ride",
+      "subtitle": "Let us know how your experience was",
+      "question": "How was your ride?",
+      "rate": "Rate",
+      "stars": "stars",
+      "addMore": "Anything else to add?",
+      "placeholder": "Enter your feedback here...",
+      "submit": "Submit Your Feedback"
+    },
+
+    "callModal": {
+      "name": "Arun Das",
+      "role": "Driver",
+      "calling": "● Calling...",
+      "muted": "Muted",
+      "mute": "Mute",
+      "on": "On",
+      "speaker": "Speaker",
+      "endCall": "End Call"
+    },
+
+    "chatModal": {
+      "title": "Chat with Driver",
+      "noMessages": "No messages yet",
+      "inputPlaceholder": "Type a message...",
+      "send": "Send",
+      "chatMe": "You"
+    },
+
+    "cancelRide": {
+      "title": "Cancel Ride",
+      "subtitle": "Please let us know why you're canceling",
+      "reason1": "I don't need a ride anymore",
+      "reason2": "Driver is too far",
+      "reason3": "I feel unsafe with the driver",
+      "reason4": "Others",
+      "policy": "A cancellation fee of ₹50 may apply if you cancel more than 2 minutes after your driver has accepted the ride.",
+      "keepRide": "Keep Ride",
+      "confirm": "Confirm Cancellation"
+    }
+  }
+}
