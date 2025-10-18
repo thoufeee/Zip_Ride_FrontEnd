@@ -404,6 +404,31 @@
     "keepRide": "राइड जारी रखें",
     "confirm": "रद्दीकरण की पुष्टि करें"
   }
-}
+},
+"homeSection": {
+    "imageAlt": "अपनी यात्रा अनुसूचित करें",
+    "scheduleLater": "बाद के लिए अनुसूची बनाएं",
+    "scheduleRide": "अपनी सवारी निर्धारित करें",
+    "pickup": "पिकअप स्थान",
+    "destination": "गंतव्य",
+    "pickupPlaceholder": "पिकअप स्थान दर्ज करें",
+    "destinationPlaceholder": "गंतव्य दर्ज करें",
+    "date": "दिनांक",
+    "time": "समय",
+    "scheduleNow": "अभी अनुसूची बनाएं"
+  },
+  "scheduledRides": {
+    "title": "निर्धारित यात्राएँ",
+    "to": "गंतव्य",
+    "from": "प्रस्थान स्थान",
+    "cancel": "रद्द करें",
+    "confirmed": "पुष्ट",
+    "onTheWay": "रास्ते में",
+    "cancelModal": {
+      "title": "यात्रा रद्द करें",
+      "confirm": "रद्दीकरण की पुष्टि करें",
+      "reasonLabel": "रद्द करने का कारण"
+    }
+  }
 
 }

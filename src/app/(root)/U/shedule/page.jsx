@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import CancelRideModal from "@/components/user/cancel";
+import { useTranslation } from "react-i18next";
 
 const rides = [
   {
@@ -27,6 +28,7 @@ const rides = [
 ];
 
 export default function ScheduledRides() {
+  const { t } = useTranslation();
   const [showModal, setShowModal] = useState(false);
   const [selectedRide, setSelectedRide] = useState(null);
   const [cancelReason, setCancelReason] = useState("");
@@ -34,7 +36,7 @@ export default function ScheduledRides() {
   const handleCancel = (ride) => {
     setSelectedRide(ride);
     setShowModal(true);
-    setCancelReason(""); // clear previous reason selection
+    setCancelReason("");
   };
 
   const handleModalClose = () => {
@@ -45,16 +47,16 @@ export default function ScheduledRides() {
 
   const handleConfirmCancel = () => {
     setShowModal(false);
-    alert(`Ride canceled: ${selectedRide?.id}, Reason: ${cancelReason}`);
-    // Here you can add API call logic if needed
+    alert(`${t("scheduledRides.cancelModal.title")}: ${selectedRide?.id}, ${t("scheduledRides.cancelModal.reasonLabel")}: ${cancelReason}`);
   };
 
   return (
     <section className="min-h-screen bg-yellow-50 px-4 py-16">
       <div className="max-w-3xl mx-auto">
         <h1 className="text-3xl md:text-4xl font-extrabold text-black mb-8">
-          Scheduled Rides
+          {t("scheduledRides.title")}
         </h1>
+
         <ul className="space-y-4">
           {rides.map((ride) => (
             <li
@@ -64,22 +66,28 @@ export default function ScheduledRides() {
               <div className="flex items-start gap-3 w-full">
                 <div>
                   <p className="font-semibold text-base text-black mb-1">{ride.date}</p>
-                  <p className="text-sm text-gray-700">To: {ride.to}</p>
-                  <p className="text-sm text-gray-500">From: {ride.from}</p>
+                  <p className="text-sm text-gray-700">
+                    {t("scheduledRides.to")}: {ride.to}
+                  </p>
+                  <p className="text-sm text-gray-500">
+                    {t("scheduledRides.from")}: {ride.from}
+                  </p>
                 </div>
               </div>
+
               <div className="flex items-center gap-4 mt-4 md:mt-0">
                 <button
                   className="text-red-500 font-semibold hover:underline transition"
                   onClick={() => handleCancel(ride)}
                 >
-                  Cancel
+                  {t("scheduledRides.cancel")}
                 </button>
               </div>
             </li>
           ))}
         </ul>
       </div>
+
       <CancelRideModal
         isOpen={showModal}
         onClose={handleModalClose}

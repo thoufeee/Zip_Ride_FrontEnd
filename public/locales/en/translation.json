@@ -399,5 +399,30 @@
       "keepRide": "Keep Ride",
       "confirm": "Confirm Cancellation"
     }
+  },
+   "homeSection": {
+    "imageAlt": "Schedule your ride",
+    "scheduleLater": "Schedule later",
+    "scheduleRide": "Schedule your ride",
+    "pickup": "Pickup Location",
+    "destination": "Destination",
+    "pickupPlaceholder": "Enter pickup location",
+    "destinationPlaceholder": "Enter destination",
+    "date": "Date",
+    "time": "Time",
+    "scheduleNow": "Schedule Now"
+  },
+   "scheduledRides": {
+    "title": "Scheduled Rides",
+    "to": "To",
+    "from": "From",
+    "cancel": "Cancel",
+    "confirmed": "Confirmed",
+    "onTheWay": "On The Way",
+    "cancelModal": {
+      "title": "Cancel Ride",
+      "confirm": "Confirm Cancel",
+      "reasonLabel": "Reason for cancellation"
+    }
   }
 }

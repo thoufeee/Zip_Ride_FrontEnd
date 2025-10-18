@@ -372,7 +372,7 @@ export default function AccountPage() {
         <div className="flex items-center gap-4 mb-8 relative">
           <Link
             href="/U/home"
-            className="absolute left-0 p-2 bg-white rounded-full hover:bg-gray-100 shadow text-black"
+            className="absolute -left-15 p-2 bg-white rounded-full hover:bg-gray-100 shadow text-black"
             aria-label={t("rideBooking.back")}
           >
             <ArrowLeftIcon className="w-6 h-6" />
@@ -409,7 +409,7 @@ export default function AccountPage() {
           {/* Right side buttons */}
           <div className="flex flex-col gap-3 sm:items-end">
             <button
-              onClick={() => router.push("/profile/bookings")} // Navigate to past rides / bookings
+              onClick={() => router.push("/U/profile/pastride")} // Navigate to past rides / bookings
               className="flex items-center gap-2 bg-white text-yellow-500 px-5 py-2.5 rounded-lg font-semibold hover:shadow-lg transition-all"
               aria-label={t("accountPage.pastRides")}
             >

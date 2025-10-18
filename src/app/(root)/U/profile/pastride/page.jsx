@@ -31,7 +31,7 @@ export default function PastRides() {
         {/* Header */}
         <div className="flex items-center pt-2 pb-3 px-6 relative z-10">
           <Link
-            href="/U/home"
+            href="/U/profile/account"
             className="inline-flex items-center p-2 bg-white rounded-full hover:bg-gray-100 shadow text-black mr-4"
             aria-label={t("pastRides.back")}
           >
@@ -41,7 +41,7 @@ export default function PastRides() {
         </div>
 
         {/* Rides List */}
-        <div className="flex flex-col gap-8 mt-2 px-4 md:px-0 relative z-10">
+        <div className="flex flex-col gap-8 mt-2 px-4 md:px-0 relative z-10 text-black">
           {rides.map((ride, idx) => (
             <div
               key={idx}
